@@ -7,8 +7,8 @@ client.on('ready', () => {
 });
 
 client.on('ready', async() => {
-var server = "522370541441646592"; // ايدي السررفر
-var channel = "522370736774578180";//ايدي الروم
+var server = "526391001330221076"; // ايدي السررفر
+var channel = "526391480210686000";//ايدي الروم
     setInterval(()=>{
     client.guilds.get(server).channels.get(channel).send('***# I Love u Relo and Waled - Fast Spam** ,')
     },305);
